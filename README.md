@@ -1,8 +1,7 @@
 ## Oi, Eu sou Augusto Wesley
 Estudande: Analise e desenvolvimento de sistemas <br>
 <div>
-  <p>Meu linkedin:<p> 
-  <a href="https://www.linkedin.com/in/augustowtg/">Augustowtg<a><br>
+  <p>Meu linkedin: <a href="https://www.linkedin.com/in/augustowtg/">Augustowtg<a>:<p><br>
   <p>Cidade: Recife-PE<p>
 <div>
 <hr>
