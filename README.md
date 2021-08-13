@@ -1,10 +1,13 @@
-<h1 align="center"> Oi, Eu sou Augusto Wesley </h1>
-<p>Estudande: Analise e desenvolvimento de sistemas<p>
-<p>Apaixonado por programação e tecnologias envolvidas </p>
+<h1 align="center">:star: Oi, Eu sou Augusto Wesley :star:</h1>
+<ul>
+  <li><p>:computer: Estudande: Analise e desenvolvimento de sistemas<p></li>
+  <li><p>:heart: Apaixonado por programação e tecnologias envolvidas </p></li>
+  <li><p>:blue_book: Estudando: | React.js | Node.js | React Native | </p></li>
+</ul>
 <hr>
 <div>
-  <a href="https://www.linkedin.com/in/augustowtg/">Meu linkedin: Augustowtg<a>
-  <p>Cidade: Recife-PE<p>
+  <a href="https://www.linkedin.com/in/augustowtg/">:link: Meu linkedin: Augustowtg<a>
+  <p>:cityscape: Cidade: Recife-PE<p>
 <div>
 <hr>
 <div>
@@ -18,6 +21,6 @@
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <div>
 <hr>
